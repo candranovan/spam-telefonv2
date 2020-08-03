@@ -17,9 +17,9 @@ sleep 1
 echo "${whi}SPAM TELEFON ULIMETED V1"
 sleep 1
 echo "${bla}--------------------------------------"
-echo "${whi} Author :${blu} MR.GRIMX72"
-echo "${whi} Youtube:${blu} Belum Ada"
-echo "${whi} Version:${blu} Spam Telefon V1"
+echo "${whi}Author :${blu} MR.GRIMX72"
+echo "${whi}Youtube:${blu} Belum Ada"
+echo "${whi}Version:${blu} Spam Telefon V1"
 echo "${bla}--------------------------------------\n${whi}"
 
           
